@@ -76,3 +76,23 @@ C:\Users\pt507\ASIBasecode\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Resources\obj\Debug\net6.0\refint\ASI.Basecode.Resources.dll
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.pdb
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Resources\obj\Debug\net6.0\ref\ASI.Basecode.Resources.dll
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\bin\Debug\net6.0\ASI.Basecode.Resources.deps.json
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\bin\Debug\net6.0\ASI.Basecode.Resources.dll
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\bin\Debug\net6.0\ASI.Basecode.Resources.pdb
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.Messages.Common.resources
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.Messages.Errors.resources
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.Views.Account.resources
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.Views.Button.resources
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.Views.Screen.resources
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.Views.Table.resources
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.Views.TitleText.resources
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.csproj.GenerateResource.cache
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.AssemblyInfoInputs.cache
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.AssemblyInfo.cs
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.csproj.CoreCompileInputs.cache
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.sourcelink.json
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.dll
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\refint\ASI.Basecode.Resources.dll
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ASI.Basecode.Resources.pdb
+D:\Cananua-Activities\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Resources\obj\Debug\net6.0\ref\ASI.Basecode.Resources.dll
