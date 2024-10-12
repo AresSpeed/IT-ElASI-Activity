@@ -12,6 +12,11 @@
             <a asp-controller="Book" asp-action="Index" class="btn btn-outline-primary">View Books</a>
         </div>
     </div>
+    <div class="logosec hover-pointer">
+        <div class="d-flex align-items-center justify-content-center">
+            <a asp-controller="Song" asp-action="Index" class="btn btn-outline-primary">View Songs</a>
+        </div>
+    </div>
 
     <div class="logosec">
         @HttpContextAccessor.HttpContext.Session.GetString("UserName")
