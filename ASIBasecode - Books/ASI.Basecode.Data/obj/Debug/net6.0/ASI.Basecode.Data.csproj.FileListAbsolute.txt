@@ -68,3 +68,18 @@ C:\Users\pt507\ASIBasecode\ASI.Basecode.Data\obj\Debug\net6.0\refint\ASI.Basecod
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.pdb
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.genruntimeconfig.cache
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Data\obj\Debug\net6.0\ref\ASI.Basecode.Data.dll
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\bin\Debug\net6.0\ASI.Basecode.Data.deps.json
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\bin\Debug\net6.0\ASI.Basecode.Data.runtimeconfig.json
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\bin\Debug\net6.0\ASI.Basecode.Data.dll
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\bin\Debug\net6.0\ASI.Basecode.Data.pdb
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.csproj.AssemblyReference.cache
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.AssemblyInfoInputs.cache
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.AssemblyInfo.cs
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.csproj.CoreCompileInputs.cache
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.sourcelink.json
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.dll
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\refint\ASI.Basecode.Data.dll
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.pdb
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ASI.Basecode.Data.genruntimeconfig.cache
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Data\obj\Debug\net6.0\ref\ASI.Basecode.Data.dll
