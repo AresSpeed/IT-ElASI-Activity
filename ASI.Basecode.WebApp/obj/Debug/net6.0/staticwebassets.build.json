@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+  "Hash": "Gj8DPs7ut2+duBRPhnd4U2j0Vhu/2EUata0AP/ZwW/Y=",
+=======
   "Hash": "eEP989TLan25OMj2LtBixIWFo5o16HGVaUaJPT2cwI8=",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
   "Source": "ASI.Basecode.WebApp",
   "BasePath": "_content/ASI.Basecode.WebApp",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "ASI.Basecode.WebApp\\wwwroot",
       "Source": "ASI.Basecode.WebApp",
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\css\\login.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\css\\login.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -36,10 +51,17 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\css\\main.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\css\\main.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -55,10 +77,17 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\css\\site.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\css\\site.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +103,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\css\\style.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\css\\style.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -93,10 +129,17 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\favicon.ico",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\favicon.ico",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -112,10 +155,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\fonts\\roboto.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\fonts\\roboto.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "fonts/roboto.css",
       "AssetKind": "All",
@@ -131,10 +181,17 @@
       "OriginalItemSpec": "wwwroot\\fonts\\roboto.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "html/assets/js/plugins/jquery-slimscroll/jquery.slimscroll.js",
       "AssetKind": "All",
@@ -150,10 +207,17 @@
       "OriginalItemSpec": "wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "html/assets/js/plugins/jquery-slimscroll/jquery.slimscroll.min.js",
       "AssetKind": "All",
@@ -169,10 +233,17 @@
       "OriginalItemSpec": "wwwroot\\html\\assets\\js\\plugins\\jquery-slimscroll\\jquery.slimscroll.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\img\\asi-logo-invert.svg",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\img\\asi-logo-invert.svg",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "img/asi-logo-invert.svg",
       "AssetKind": "All",
@@ -188,10 +259,17 @@
       "OriginalItemSpec": "wwwroot\\img\\asi-logo-invert.svg"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\img\\LiveIT.png",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\img\\LiveIT.png",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "img/LiveIT.png",
       "AssetKind": "All",
@@ -207,10 +285,17 @@
       "OriginalItemSpec": "wwwroot\\img\\LiveIT.png"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\img\\profile-logo.png",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\img\\profile-logo.png",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "img/profile-logo.png",
       "AssetKind": "All",
@@ -226,10 +311,17 @@
       "OriginalItemSpec": "wwwroot\\img\\profile-logo.png"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\js\\site.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\js\\site.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -245,10 +337,17 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -264,10 +363,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -283,10 +389,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -302,10 +415,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -321,10 +441,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -340,10 +467,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -359,10 +493,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -378,10 +519,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -397,10 +545,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -416,10 +571,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -435,10 +597,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -454,10 +623,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -473,10 +649,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -492,10 +675,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -511,10 +701,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -530,10 +727,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -549,10 +753,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -568,10 +779,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -587,10 +805,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -606,10 +831,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -625,10 +857,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -644,10 +883,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -663,10 +909,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -682,10 +935,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -701,10 +961,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -720,10 +987,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -739,10 +1013,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -758,10 +1039,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -777,10 +1065,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -796,10 +1091,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -815,10 +1117,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -834,10 +1143,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -853,10 +1169,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -872,10 +1195,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react\\dist\\react.development.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react\\dist\\react.development.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react/dist/react.development.js",
       "AssetKind": "All",
@@ -891,10 +1221,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react\\dist\\react.development.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react\\dist\\react.production.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react\\dist\\react.production.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react/dist/react.production.min.js",
       "AssetKind": "All",
@@ -910,10 +1247,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react\\dist\\react.production.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react\\dist\\react.profiling.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react\\dist\\react.profiling.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react/dist/react.profiling.min.js",
       "AssetKind": "All",
@@ -929,10 +1273,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react\\dist\\react.profiling.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.development.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.development.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom.development.js",
       "AssetKind": "All",
@@ -948,10 +1299,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom.development.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.production.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.production.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom.production.min.js",
       "AssetKind": "All",
@@ -967,10 +1325,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom.production.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.profiling.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom.profiling.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom.profiling.min.js",
       "AssetKind": "All",
@@ -986,10 +1351,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom.profiling.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.development.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.development.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom-server.browser.development.js",
       "AssetKind": "All",
@@ -1005,10 +1377,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.development.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.production.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.production.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom-server.browser.production.min.js",
       "AssetKind": "All",
@@ -1024,10 +1403,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-server.browser.production.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.development.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.development.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom-test-utils.development.js",
       "AssetKind": "All",
@@ -1043,10 +1429,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.development.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.production.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.production.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom-test-utils.production.min.js",
       "AssetKind": "All",
@@ -1062,10 +1455,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-test-utils.production.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.development.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.development.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom-unstable-fizz.browser.development.js",
       "AssetKind": "All",
@@ -1081,10 +1481,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.development.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.production.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.production.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom-unstable-fizz.browser.production.min.js",
       "AssetKind": "All",
@@ -1100,10 +1507,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-fizz.browser.production.min.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.development.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.development.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom-unstable-native-dependencies.development.js",
       "AssetKind": "All",
@@ -1119,10 +1533,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.development.js"
     },
     {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
+      "Identity": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.production.min.js",
+      "SourceId": "ASI.Basecode.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+=======
       "Identity": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\lib\\react-dom\\dist\\react-dom-unstable-native-dependencies.production.min.js",
       "SourceId": "ASI.Basecode.WebApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.WebApp\\wwwroot\\",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/obj/Debug/net6.0/staticwebassets.build.json
       "BasePath": "_content/ASI.Basecode.WebApp",
       "RelativePath": "lib/react-dom/dist/react-dom-unstable-native-dependencies.production.min.js",
       "AssetKind": "All",

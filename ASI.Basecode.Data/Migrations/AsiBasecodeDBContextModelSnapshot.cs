@@ -47,6 +47,15 @@ namespace ASI.Basecode.Data.Migrations
                     b.ToTable("Books");
                 });
 
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Data/Migrations/AsiBasecodeDBContextModelSnapshot.cs
+            modelBuilder.Entity("ASI.Basecode.Data.Models.Donation", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
+=======
             modelBuilder.Entity("ASI.Basecode.Data.Models.Song", b =>
                 {
                     b.Property<string>("Id")
@@ -58,10 +67,19 @@ namespace ASI.Basecode.Data.Migrations
 
                     b.Property<string>("Artist")
                         .HasColumnType("nvarchar(max)");
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Data/Migrations/AsiBasecodeDBContextModelSnapshot.cs
 
                     b.Property<DateTime>("DateTimeCreated")
                         .HasColumnType("datetime2");
 
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Data/Migrations/AsiBasecodeDBContextModelSnapshot.cs
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Donator")
+                        .IsRequired()
+=======
                     b.Property<string>("Genre")
                         .HasColumnType("nvarchar(max)");
 
@@ -69,11 +87,16 @@ namespace ASI.Basecode.Data.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Title")
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Data/Migrations/AsiBasecodeDBContextModelSnapshot.cs
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
 
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Data/Migrations/AsiBasecodeDBContextModelSnapshot.cs
+                    b.ToTable("Donations");
+=======
                     b.ToTable("Songs");
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Data/Migrations/AsiBasecodeDBContextModelSnapshot.cs
                 });
 
             modelBuilder.Entity("ASI.Basecode.Data.Models.User", b =>

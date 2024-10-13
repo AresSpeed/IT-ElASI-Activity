@@ -36,14 +36,22 @@ namespace ASI.Basecode.WebApp
             this._services.TryAddSingleton<TokenValidationParametersFactory>();
             this._services.AddScoped<IUserService, UserService>();
             this._services.AddScoped<IBookService, BookService>();
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/Startup.DI.cs
+            this._services.AddScoped<IDonationService, DonationService>();
+=======
             this._services.AddScoped<ISongService, SongService>();
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/Startup.DI.cs
 
 
 
             // Repositories
             this._services.AddScoped<IUserRepository, UserRepository>();
             this._services.AddScoped<IBookRepository, BookRepository>();
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.WebApp/Startup.DI.cs
+            this._services.AddScoped<IDonationRepository, DonationRepository>();
+=======
             this._services.AddScoped<ISongRepository, SongRepository>();
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.WebApp/Startup.DI.cs
 
             // Manager Class
             this._services.AddScoped<SignInManager>();

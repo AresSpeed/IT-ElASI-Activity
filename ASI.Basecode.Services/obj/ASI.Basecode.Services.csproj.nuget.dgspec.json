@@ -1,6 +1,22 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Services/obj/ASI.Basecode.Services.csproj.nuget.dgspec.json
+    "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj",
+        "projectName": "ASI.Basecode.Data",
+        "projectPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj",
+        "packagesPath": "C:\\Users\\Angelika\\.nuget\\packages\\",
+        "outputPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Angelika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
     "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj": {}
   },
   "projects": {
@@ -15,6 +31,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Loryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Services/obj/ASI.Basecode.Services.csproj.nuget.dgspec.json
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,6 +126,19 @@
         }
       }
     },
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Services/obj/ASI.Basecode.Services.csproj.nuget.dgspec.json
+    "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj",
+        "projectName": "ASI.Basecode.Resources",
+        "projectPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj",
+        "packagesPath": "C:\\Users\\Angelika\\.nuget\\packages\\",
+        "outputPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Angelika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
     "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -120,6 +150,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Loryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Services/obj/ASI.Basecode.Services.csproj.nuget.dgspec.json
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -170,6 +201,19 @@
         }
       }
     },
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Services/obj/ASI.Basecode.Services.csproj.nuget.dgspec.json
+    "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj",
+        "projectName": "ASI.Basecode.Services",
+        "projectPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj",
+        "packagesPath": "C:\\Users\\Angelika\\.nuget\\packages\\",
+        "outputPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Angelika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
     "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -181,6 +225,7 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Loryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Services/obj/ASI.Basecode.Services.csproj.nuget.dgspec.json
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -195,11 +240,19 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Services/obj/ASI.Basecode.Services.csproj.nuget.dgspec.json
+              "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj": {
+                "projectPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj"
+              },
+              "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj": {
+                "projectPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj"
+=======
               "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj": {
                 "projectPath": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj"
               },
               "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj": {
                 "projectPath": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj"
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Services/obj/ASI.Basecode.Services.csproj.nuget.dgspec.json
               }
             }
           }

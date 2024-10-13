@@ -83,6 +83,26 @@ C:\Users\pt507\ASIBasecode\ASI.Basecode.Services\obj\Debug\net6.0\refint\ASI.Bas
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.pdb
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Services\obj\Debug\net6.0\ref\ASI.Basecode.Services.dll
 C:\Users\pt507\ASIBasecode\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.csproj.CopyComplete
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Services/obj/Debug/net6.0/ASI.Basecode.Services.csproj.FileListAbsolute.txt
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Services.deps.json
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Services.dll
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Services.pdb
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Data.dll
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Resources.dll
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Data.pdb
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Resources.pdb
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.csproj.AssemblyReference.cache
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.AssemblyInfoInputs.cache
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.AssemblyInfo.cs
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.csproj.CoreCompileInputs.cache
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.sourcelink.json
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Base.22E0E64E.Up2Date
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.dll
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\refint\ASI.Basecode.Services.dll
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.pdb
+D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ref\ASI.Basecode.Services.dll
+=======
 C:\Users\Loryn\Documents\christine\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Services.deps.json
 C:\Users\Loryn\Documents\christine\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Services.dll
 C:\Users\Loryn\Documents\christine\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\bin\Debug\net6.0\ASI.Basecode.Services.pdb
@@ -101,3 +121,4 @@ C:\Users\Loryn\Documents\christine\IT-ElASI-Activity\ASIBasecode - Books\ASI.Bas
 C:\Users\Loryn\Documents\christine\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\refint\ASI.Basecode.Services.dll
 C:\Users\Loryn\Documents\christine\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ASI.Basecode.Services.pdb
 C:\Users\Loryn\Documents\christine\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\obj\Debug\net6.0\ref\ASI.Basecode.Services.dll
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Services/obj/Debug/net6.0/ASI.Basecode.Services.csproj.FileListAbsolute.txt

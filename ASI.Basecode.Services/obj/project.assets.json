@@ -3804,11 +3804,25 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Services/obj/project.assets.json
+    "C:\\Users\\Angelika\\.nuget\\packages\\": {}
+=======
     "C:\\Users\\Loryn\\.nuget\\packages\\": {}
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Services/obj/project.assets.json
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Services/obj/project.assets.json
+      "projectUniqueName": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj",
+      "projectName": "ASI.Basecode.Services",
+      "projectPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj",
+      "packagesPath": "C:\\Users\\Angelika\\.nuget\\packages\\",
+      "outputPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Angelika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
       "projectUniqueName": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj",
       "projectName": "ASI.Basecode.Services",
       "projectPath": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj",
@@ -3817,6 +3831,7 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Loryn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Services/obj/project.assets.json
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3831,11 +3846,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Services/obj/project.assets.json
+            "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj": {
+              "projectPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj"
+            },
+            "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj": {
+              "projectPath": "D:\\Gabito\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj"
+=======
             "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj": {
               "projectPath": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj"
             },
             "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj": {
               "projectPath": "C:\\Users\\Loryn\\Documents\\christine\\IT-ElASI-Activity\\ASIBasecode - Books\\ASI.Basecode.Resources\\ASI.Basecode.Resources.csproj"
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Services/obj/project.assets.json
             }
           }
         }

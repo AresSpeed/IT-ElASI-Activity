@@ -19,7 +19,11 @@ namespace ASI.Basecode.Data
 
         public virtual DbSet<User> Users { get; set; }
         public virtual DbSet<Book> Books { get; set; }
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Data/AsiBasecodeDbContext.cs
+        public virtual DbSet<Donation> Donations { get; set; }
+=======
         public virtual DbSet<Song> Songs { get; set; }
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Data/AsiBasecodeDbContext.cs
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>(entity =>
