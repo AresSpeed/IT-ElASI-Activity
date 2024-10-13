@@ -3039,11 +3039,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pt507\\ASIBasecode\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj",
+      "projectUniqueName": "C:\\Users\\pt507\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj",
       "projectName": "ASI.Basecode.Data",
-      "projectPath": "C:\\Users\\pt507\\ASIBasecode\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj",
+      "projectPath": "C:\\Users\\pt507\\ASIBasecode - Books\\ASI.Basecode.Data\\ASI.Basecode.Data.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pt507\\ASIBasecode\\ASI.Basecode.Data\\obj\\",
+      "outputPath": "C:\\Users\\pt507\\ASIBasecode - Books\\ASI.Basecode.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

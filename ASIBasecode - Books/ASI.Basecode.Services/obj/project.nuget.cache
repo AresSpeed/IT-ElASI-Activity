@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FrKbxzqwOV/UVAYIejSpu4/QMcPyK7PtxkIcQo3Yycytdz0gU1U1xmD2LLFQBcPYJnP18F6MMUSCRuuW38iGBQ==",
+  "dgSpecHash": "GO4Y6QzI6g96yqn0fBbHMaGU6nSPepjz5wlHRctQgI2RqtzotNOBpn98giMWJaqgKwt//HIKUh9S7sh+9jRpgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pt507\\ASIBasecode\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj",
+  "projectFilePath": "C:\\Users\\pt507\\ASIBasecode - Books\\ASI.Basecode.Services\\ASI.Basecode.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

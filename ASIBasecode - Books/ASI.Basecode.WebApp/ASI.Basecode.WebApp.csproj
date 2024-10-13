@@ -7,6 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\NewFolder1\**" />
+    <Content Remove="Views\NewFolder1\**" />
+    <EmbeddedResource Remove="Views\NewFolder1\**" />
+    <EntityDeploy Remove="Views\NewFolder1\**" />
+    <None Remove="Views\NewFolder1\**" />
+    <TypeScriptCompile Remove="Views\NewFolder1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="appsettings.json.rej" />
   </ItemGroup>
 
