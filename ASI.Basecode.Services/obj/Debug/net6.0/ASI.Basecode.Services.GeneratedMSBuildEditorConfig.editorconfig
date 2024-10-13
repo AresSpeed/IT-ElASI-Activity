@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ASI.Basecode.Services
+<<<<<<< HEAD:ASIBasecode - Books/ASI.Basecode.Services/obj/Debug/net6.0/ASI.Basecode.Services.GeneratedMSBuildEditorConfig.editorconfig
+build_property.ProjectDir = D:\Gabito\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\
+=======
+build_property.ProjectDir = C:\Users\Loryn\Documents\christine\IT-ElASI-Activity\ASIBasecode - Books\ASI.Basecode.Services\
+>>>>>>> 598a7d1ab28bc66d929db423fa8d69d5378235f5:ASI.Basecode.Services/obj/Debug/net6.0/ASI.Basecode.Services.GeneratedMSBuildEditorConfig.editorconfig
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
